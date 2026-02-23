@@ -1,0 +1,16 @@
+movie-success-ml/
+│
+├── data/
+│   └── movies.csv
+│
+├── src/
+│   ├── preprocess.py
+│   ├── train.py
+│   └── evaluate.py
+│
+├── tests/
+│   └── test_preprocess.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
